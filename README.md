@@ -1,6 +1,6 @@
 # BLU Antivirus
-Antivirus Solution .NET Framework!
-[image](https://user-images.githubusercontent.com/19478700/129352640-f46d2a4a-a70b-4b2b-802a-9ebf265425e6.png)
+Antivirus Solution .NET Framework
+![image](https://user-images.githubusercontent.com/19478700/129352682-b766fbeb-7aef-43ee-9a93-752bd53aa0c9.png)
 
 ![image](https://user-images.githubusercontent.com/19478700/129286325-b177ed1c-7c82-48a8-96d4-1e64c99c3507.png)
 
