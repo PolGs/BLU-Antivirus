@@ -1,5 +1,5 @@
 # BLU Antivirus
-Antivirus Solution .NET Framework
+### Open Source Machine Learning Antivirus Solution being implemented in C# .NET Framework and python
 ![image](https://user-images.githubusercontent.com/19478700/129377547-1dfeffb8-05a2-4243-901b-a0def1e3be45.png)
 ![image](https://user-images.githubusercontent.com/19478700/129377678-f5b39cf9-fee7-4f21-81bb-d7654f63ba00.png)
 
