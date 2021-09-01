@@ -1,8 +1,8 @@
-# BLU Antivirus
+# BLU Antivirus (GUI)
 ### Open Source Machine Learning Antivirus Solution being implemented in C# .NET Framework and python
 ![image](https://user-images.githubusercontent.com/19478700/129377547-1dfeffb8-05a2-4243-901b-a0def1e3be45.png)
 ![image](https://user-images.githubusercontent.com/19478700/129377678-f5b39cf9-fee7-4f21-81bb-d7654f63ba00.png)
-
+### Backend under development
 
 ## Older Versions
 ![image](https://user-images.githubusercontent.com/19478700/129352682-b766fbeb-7aef-43ee-9a93-752bd53aa0c9.png)
